@@ -1,6 +1,6 @@
 FROM centos:latest
 
-ENV REDIS_HOST=central.makilab.com
+ENV REDIS_HOST=172.30.86.9
 ENV REDIS_PORT=6379
 
 # net-tools for debugging purposes
